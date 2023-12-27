@@ -59,5 +59,51 @@ Create "Trusted URLs" for omdbApi and MovieImage
 
 ![image](https://github.com/DeeptanshuDev/Movie-Search-App/assets/46113041/090d75cb-fba8-4761-b1af-7fc632444e91)
 
+Step 3: 
+Create movieSearch component to search the movie
+![image](https://github.com/DeeptanshuDev/Movie-Search-2.0/assets/46113041/12020d95-67e8-415a-873a-a5dc062aec2d)
+
+Step 4:
+Create movieTile component to show the search result
+![image](https://github.com/DeeptanshuDev/Movie-Search-2.0/assets/46113041/8f5623ab-2f5f-430c-a5ec-a336192a298a)
+
+Step 5:
+Create movieDetail component to show the details of the selected movie
+![image](https://github.com/DeeptanshuDev/Movie-Search-2.0/assets/46113041/c159f498-8e8c-4348-9286-16f082faa36d)
+
+
+![image](https://github.com/DeeptanshuDev/Movie-Search-2.0/assets/46113041/2f6d98e1-cca9-4fd4-9280-7bfc82dc4feb)
+
+Step 6:
+Enable Digital Experience on Salesforce Org Setup -> Digital Experience
+
+Step 7:
+Create a new site by clicking "All Sites" on Setup -> Digital Experience -> Sites -> New
+
+Step 8:
+Choose the Build your own LWR Template and give the Site Name
+
+Step 9:
+Access to Guest Users(Builder -> Setting -> General)
+
+Step 10:
+Related CSP Setting(Builder -> Setting -> Security&Privacy)
+
+Step 11:
+Activate Site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
