@@ -92,6 +92,9 @@ Related CSP Setting(Builder -> Setting -> Security&Privacy)
 Step 11:
 Activate Site
 
+Step 12:
+Publish Changes - Every time you make any changes on LWC component then site needs to publish everytime
+
 
 
 
